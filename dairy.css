@@ -638,4 +638,11 @@ header:after {
     opacity: 1;
   }
 }
+
+@media (max-width: 600px) {
+  .prev, .next {
+    cursor: pointer;
+    padding: 5px 10px;
+  }
+}
 /*# sourceMappingURL=dairy.css.map */
